@@ -46,7 +46,7 @@ maria.forward(150)
 maria.right(50)
 maria.forward(50)
 maria.pen_down()
-for j in range(12):
+for k in range(12):
     maria.forward(40)
     maria.left(30)
 
